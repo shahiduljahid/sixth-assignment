@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Staatliches&display=swap');
+.main-container{
+    display: flex;
+}
+.player-container{
+    flex-basis: 70%;
+    /* width:80% */
+    
+
+}
+.team-container{
+    margin-left: 10px;
+    border-left: 1px solid lightgrey;
+    /* width:30%; */
+    flex-basis:30%;
+    
+}
+.club ,.team-value{
+    text-align: center;
+    background-color:rgb(0, 162, 255);
+    color:wheat;
+    margin: 10px;
+    border-radius: 10px;
+    padding:5px 0;
+    font-family: 'Staatliches', cursive; ;
+}
+.value{
+    text-align: center;
+    /* background-color:rgb(0, 162, 255); */
+    /* color:wheat; */
+    margin: 10px;
+    border-radius: 10px;
+    padding:5px 0;
+    font-family: 'Staatliches', cursive; ;
+    font-size:30px;
+
+}
+.teamMeambers {
+ overflow:hidden; 
+ margin: 0 auto;
+}

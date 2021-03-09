@@ -1,0 +1,26 @@
+.Header-container img{
+    height:100px;
+}
+.Header-container{
+    text-align:center;
+
+}
+.Navigation a{
+    text-decoration:none;
+    color: white;
+    margin: 40px;
+    padding: 5px;
+    font-weight: 600;
+    font-size: 18px;
+    
+
+}
+.Navigation a:hover{
+    background-color:#ec2700;
+    border-radius: 2px;
+}
+.Navigation{
+    background-color: black;
+    line-height: 45px;
+
+}

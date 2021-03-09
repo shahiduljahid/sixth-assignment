@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;1,200;1,300&family=Staatliches&display=swap');
+.member{
+
+  display: flex;
+  align-items:center;
+  flex-direction:column;
+  width: 50%;
+  float: left;
+  flex-wrap: wrap;
+
+  
+}
+.member img{
+    width:50px;
+    border-radius:5px;
+    margin: 0 auto;
+   
+}
+.member p{
+    font-size:15px;
+    text-align:center;
+    font-weight:600;
+    font-family: 'Poppins', sans-serif; 
+    
+    
+}
